@@ -233,9 +233,6 @@ h6 {
 
   transition: var(--transition);
 }
-.site-header:hover{
-  background-color: #7e4500;
-}
 
 .header-container {
   display: flex;
